@@ -25,7 +25,7 @@ const AboutUs = () => (
         </button>
       </div>
       <div className="app__aboutus-content_knife flex__center">
-        <img src={images.knife} alt="about_knife" />
+        <img src={images.pizza} alt="about_knife" />
         {/* src={images.knife} for pizza pic*/}
       </div>
       <div className="app__aboutus-content_history">
