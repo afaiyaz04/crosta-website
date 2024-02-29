@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/crosta-website/static/css/main.e986108d.css",
-    "main.js": "/crosta-website/static/js/main.b36c6511.js",
+    "main.css": "/crosta-website/static/css/main.d48798bd.css",
+    "main.js": "/crosta-website/static/js/main.36e042ed.js",
     "static/media/meal.mp4": "/crosta-website/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/pizza.png": "/crosta-website/static/media/pizza.57398eebd80cc36eeccc.png",
+    "static/media/gallery03.png": "/crosta-website/static/media/gallery03.bae84bf7dae279b1099f.png",
+    "static/media/gallery05.png": "/crosta-website/static/media/gallery05.9cd123bc22aba586edab.png",
+    "static/media/coffee.png": "/crosta-website/static/media/coffee.69ab61714cb84fc92ee5.png",
+    "static/media/gallery04.png": "/crosta-website/static/media/gallery04.1e8d654508fcb5358d2f.png",
+    "static/media/gallery02.png": "/crosta-website/static/media/gallery02.05a98fbe33bf7ceff8bc.png",
+    "static/media/crepe.png": "/crosta-website/static/media/crepe.b0ac4f9800e3d0f85972.png",
     "static/media/bg.png": "/crosta-website/static/media/bg.3d421b1b5682e1b67deb.png",
-    "static/media/pizza.png": "/crosta-website/static/media/pizza.85a233b666ad6843441f.png",
-    "static/media/welcome.png": "/crosta-website/static/media/welcome.d724eb984456d9c97470.png",
-    "static/media/findus.png": "/crosta-website/static/media/findus.585c393ccd3671513743.png",
+    "static/media/gallery01.png": "/crosta-website/static/media/gallery01.c2ed61b8fcd861cd2f97.png",
+    "static/media/findus.png": "/crosta-website/static/media/findus.ab80c28929f60b0d9e24.png",
+    "static/media/crepe_chef.png": "/crosta-website/static/media/crepe_chef.0b57c1440edddb85011e.png",
     "static/media/laurels.png": "/crosta-website/static/media/laurels.e760828692795d4aafd7.png",
     "static/media/chef.png": "/crosta-website/static/media/chef.02d6c5b61bfdc70303b4.png",
     "static/media/menu.png": "/crosta-website/static/media/menu.a8287c67809afebcc280.png",
-    "static/media/gallery04.png": "/crosta-website/static/media/gallery04.c36a695f8a3b9d311106.png",
-    "static/media/gallery03.png": "/crosta-website/static/media/gallery03.b2d50180e8590d4dd330.png",
-    "static/media/gallery02.png": "/crosta-website/static/media/gallery02.27663bd9016b72ccd328.png",
-    "static/media/gallery01.png": "/crosta-website/static/media/gallery01.f2cbffe3049d6f91e0df.png",
     "static/media/knife.png": "/crosta-website/static/media/knife.1121c0a5afb62acb31cb.png",
     "static/media/overlaybg.png": "/crosta-website/static/media/overlaybg.165362eea72d1614ae28.png",
     "static/media/G.png": "/crosta-website/static/media/G.b571eb82e589ec305ec9.png",
@@ -22,14 +25,15 @@
     "static/media/award05.png": "/crosta-website/static/media/award05.48a7f5206184009dcb29.png",
     "static/media/award01.png": "/crosta-website/static/media/award01.361a4bc44b59b55abeda.png",
     "static/media/award03.png": "/crosta-website/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/crosta.png": "/crosta-website/static/media/crosta.72ab28bf0dfc1bb7c7ce.png",
     "static/media/sign.png": "/crosta-website/static/media/sign.9bf0bd90ad4caa17991f.png",
     "index.html": "/crosta-website/index.html",
     "static/media/spoon.svg": "/crosta-website/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
-    "main.e986108d.css.map": "/crosta-website/static/css/main.e986108d.css.map",
-    "main.b36c6511.js.map": "/crosta-website/static/js/main.b36c6511.js.map"
+    "main.d48798bd.css.map": "/crosta-website/static/css/main.d48798bd.css.map",
+    "main.36e042ed.js.map": "/crosta-website/static/js/main.36e042ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.e986108d.css",
-    "static/js/main.b36c6511.js"
+    "static/css/main.d48798bd.css",
+    "static/js/main.36e042ed.js"
   ]
 }
